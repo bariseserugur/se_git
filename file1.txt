@@ -1,2 +1,2 @@
-This is my first file but I modified it.
+This is my first file but I modified it to match the better_version.
 
